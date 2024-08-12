@@ -1,0 +1,335 @@
+Indent Level,Item and Group,U.S. City Average(CPI-U),U.S. City Average(CPI-W)
+0,Expenditure category,,
+0,All items,100.000,100.000
+1,Food and beverages,14.409,15.950
+2,Food,13.555,15.235
+3,Food at home,8.167,9.572
+4,Cereals and bakery products,1.066,1.258
+5,Cereals and cereal products,0.314,0.379
+6,Flour and prepared flour mixes,0.051,0.063
+6,Breakfast cereal,0.123,0.144
+6,"Rice, pasta, cornmeal",0.139,0.172
+5,Bakery products,0.752,0.879
+6,Bread,0.203,0.241
+6,"Fresh biscuits, rolls, muffins",0.117,0.132
+6,"Cakes, cupcakes, and cookies",0.191,0.230
+6,Other bakery products,0.241,0.276
+4,"Meats, poultry, fish, and eggs",1.722,2.102
+5,"Meats, poultry, and fish",1.603,1.960
+6,Meats,1.033,1.256
+7,Beef and veal,0.461,0.581
+8,Uncooked ground beef,0.160,0.204
+8,Uncooked beef roasts,0.077,0.106
+8,Uncooked beef steaks,0.174,0.195
+8,Uncooked other beef and veal,0.050,0.078
+7,Pork,0.328,0.394
+8,"Bacon, breakfast sausage, and related products",0.142,0.159
+8,Ham,0.063,0.071
+8,Pork chops,0.042,0.051
+8,"Other pork including roasts, steaks, and ribs",0.081,0.112
+7,Other meats,0.244,0.281
+6,Poultry,0.314,0.378
+7,Chicken,0.254,0.310
+7,Other uncooked poultry including turkey,0.060,0.068
+6,Fish and seafood,0.257,0.325
+7,Fresh fish and seafood,0.121,0.128
+7,Processed fish and seafood,0.135,0.197
+5,Eggs,0.119,0.142
+4,Dairy and related products,0.748,0.142
+5,Milk,0.178,0.198
+5,Cheese and related products,0.236,0.264
+5,Ice cream and related products,0.111,0.122
+5,Other dairy and related products,0.223,0.267
+4,Fruits and vegetables,1.410,1.587
+5,Fresh fruits and vegetables,1.070,1.169
+6,Fresh fruits,0.575,0.645
+7,Apples,0.070,0.080
+7,Bananas,0.085,0.105
+7,Citrus fruits,0.162,0.192
+7,Other fresh fruits,0.258,0.267
+6,Fresh vegetables,0.495,0.524
+7,Potatoes,0.073,0.081
+7,Lettuce,0.064,0.074
+7,Tomatoes,0.082,0.094
+7,Other fresh vegetables,0.276,0.275
+5,Processed fruits and vegetables,0.340,0.418
+6,Canned fruits and vegetables,0.167,0.205
+6,Frozen fruits and vegetables,0.105,0.127
+6,Other processed fruits and vegetables including dried,0.068,0.087
+4,Nonalcoholic beverages and beverage materials,1.027,1.310
+5,Juices and nonalcoholic drinks,0.730,0.987
+6,Carbonated drinks,0.324,0.434
+6,Frozen noncarbonated juices and drinks,0.008,0.011
+6,Nonfrozen noncarbonated juices and drinks,0.397,0.542
+5,Beverage materials including coffee and tea,0.298,0.323
+6,Coffee,0.186,0.192
+6,Other beverage materials including tea,0.112,0.131
+4,Other food at home,2.193,2.464
+5,Sugar and sweets,0.295,0.335
+6,Sugar and sugar substitutes,0.042,0.056
+6,Candy and chewing gum,0.192,0.210
+6,Other sweets,0.061,0.069
+5,Fats and oils,0.252,0.292
+6,Butter and margarine,0.076,0.087
+6,Salad dressing,0.060,0.074
+6,Other fats and oils including peanut butter,0.116,0.131
+5,Other foods,1.646,1.836
+6,Soups,0.095,0.108
+6,Frozen and freeze dried prepared foods,0.261,0.314
+6,Snacks,0.349,0.395
+6,"Spices, seasonings, condiments, sauces",0.322,0.364
+6,Baby food and formula,0.048,0.079
+6,Other miscellaneous foods,0.572,0.575
+,,,
+3,Food away from home,5.388,5.663
+4,Full service meals and snacks,2.474,2.132
+4,Limited service meals and snacks,2.523,3.167
+4,Food at employee sites and schools,0.080,0.092
+4,Food from vending machines and mobile vendors,0.050,0.071
+4,Other food away from home,0.261,0.200
+3,Alcoholic beverages,0.854,0.715
+4,Alcoholic beverages at home,0.477,0.422
+5,"Beer, ale, and other malt beverages at home",0.176,0.202
+5,Distilled spirits at home,0.116,0.084
+5,Wine at home,0.184,0.136
+4,Alcoholic beverages away from home,0.377,0.293
+,,,
+1,Housing,45.065,43.140
+2,Shelter,36.191,34.194
+3,Rent of primary residence,7.671,10.458
+3,Lodging away from home,1.338,0.836
+4,"Housing at school, excluding board",0.245,0.121
+4,Other lodging away from home including hotels and motels,1.093,0.715
+3,Owners' equivalent rent of residences,26.769,22.504
+4,Owners' equivalent rent of primary residence,25.440,21.871
+4,Unsampled owners' equivalent rent of secondary residences,1.329,0.633
+3,Tenants' and household insurance,0.413,0.396
+2,Fuels and utilities,4.369,4.926
+3,Household energy,3.283,3.730
+4,Fuel oil and other fuels,0.167,0.128
+5,Fuel oil,0.084,0.060
+5,"Propane, kerosene, and firewood",0.083,0.068
+4,Energy services,3.116,3.602
+5,Electricity,2.428,2.890
+5,Utility (piped) gas service,0.688,0.713
+3,Water and sewer and trash collection services,1.086,1.195
+4,Water and sewerage maintenance,0.759,0.868
+4,Garbage and trash collection,0.326,0.327
+2,Household furnishings and operations,4.506,4.020
+3,Window and floor coverings and other linens,0.294,0.265
+4,Floor coverings,0.073,0.071
+4,Window coverings,0.075,0.065
+4,Other linens,0.147,0.129
+3,Furniture and bedding,0.966,0.862
+4,Bedroom furniture,0.323,0.324
+4,"Living room, kitchen, and dining room furniture",0.485,0.387
+4,Other furniture,0.151,0.134
+4,Unsampled furniture,0.007,0.017
+3,Appliances,0.224,0.260
+4,Major appliances,0.069,0.100
+4,Other appliances,0.152,0.155
+4,Unsampled appliances,0.002,0.005
+3,Other household equipment and furnishings,0.514,0.441
+4,"Clocks, lamps, and decorator items",0.298,0.244
+4,Indoor plants and flowers,0.111,0.088
+4,Dishes and flatware,0.043,0.052
+4,Nonelectric cookware and tableware,0.062,0.057
+3,"Tools, hardware, outdoor equipment and supplies",0.722,0.658
+4,"Tools, hardware and supplies",0.199,0.211
+4,Outdoor equipment and supplies,0.308,0.249
+4,"Unsampled tools, hardware, outdoor equipment and supplies",0.215,0.198
+3,Housekeeping supplies,0.804,0.933
+4,Household cleaning products,0.284,0.380
+4,Household paper products,0.173,0.198
+4,Miscellaneous household products,0.347,0.355
+3,Household operations,0.983,0.600
+4,Domestic services,0.310,0.141
+4,Gardening and lawncare services,0.327,0.183
+4,"Moving, storage, freight expense",0.142,0.115
+4,Repair of household items,0.139,0.124
+4,Unsampled household operations,0.066,0.037
+,,,
+1,Apparel,2.512,2.588
+2,Men's and boys' apparel,0.636,0.650
+3,Men's apparel,0.488,0.466
+4,"Men's suits, sport coats, and outerwear",0.076,0.058
+4,"Men's underwear, nightwear, swimwear, and accessories",0.156,0.154
+4,Men's shirts and sweaters,0.138,0.140
+4,Men's pants and shorts,0.114,0.112
+4,Unsampled men's apparel,0.005,0.003
+3,Boys' apparel,0.147,0.184
+2,Women's and girls' apparel,1.009,0.958
+3,Women's apparel,0.887,0.804
+4,Women's outerwear,0.058,0.044
+4,Women's dresses,0.124,0.134
+4,Women's suits and separates,0.410,0.343
+4,"Women's underwear, nightwear, swimwear, and accessories",0.289,0.270
+4,Unsampled women's apparel,0.008,0.013
+3,Girls' apparel,0.122,0.155
+2,Footwear,0.530,0.681
+3,Men's footwear,0.186,0.276
+3,Boys' and girls' footwear,0.111,0.169
+3,Women's footwear,0.233,0.236
+2,Infants' and toddlers' apparel,0.099,0.118
+2,Jewelry and watches,0.238,0.181
+3,Watches,0.041,0.023
+3,Jewelry,0.197,0.157
+,,,
+1,Transportation,15.898,17.925
+2,Private transportation,14.828,17.119
+3,New and used motor vehicles,6.420,6.606
+4,New vehicles,3.684,3.358
+4,Used cars and trucks,2.012,2.461
+4,Leased cars and trucks,0.517,0.572
+4,Car and truck rental,0.139,0.093
+4,Unsampled new and used motor vehicles,0.068,0.122
+3,Motor fuel,3.372,4.484
+4,Gasoline (all types),3.261,4.372
+4,Other motor fuels,0.111,0.112
+3,Motor vehicle parts and equipment,0.469,0.561
+4,Tires,0.324,0.371
+4,Vehicle accessories other than tires,0.145,0.190
+3,Motor vehicle maintenance and repair,1.233,1.290
+4,Motor vehicle body work,0.057,0.050
+4,Motor vehicle maintenance and servicing,0.569,0.595
+4,Motor vehicle repair,0.518,0.562
+4,Unsampled service policies,0.089,0.083
+3,Motor vehicle insurance,2.794,3.686
+3,Motor vehicle fees,0.540,0.492
+4,State motor vehicle registration and license fees,0.292,0.265
+4,Parking and other fees,0.226,0.209
+4,Unsampled motor vehicle fees,0.022,0.017
+2,Public transportation,1.071,0.807
+3,Airline fares,0.751,0.499
+3,Other intercity transportation,0.089,0.054
+3,Intracity transportation,0.224,0.236
+3,Unsampled public transportation,0.007,0.018
+,,,
+1,Medical care,8.004,6.896
+2,Medical care commodities,1.489,1.243
+3,Medicinal drugs,1.370,1.163
+4,Prescription drugs,0.913,0.823
+4,Nonprescription drugs,0.458,0.340
+3,Medical equipment and supplies,0.118,0.081
+2,Medical care services,6.515,5.653
+3,Professional services,3.630,2.995
+4,Physicians' services,1.828,1.495
+4,Dental services,0.906,0.833
+4,Eyeglasses and eye care,0.333,0.308
+4,Services by other medical professionals,0.563,0.360
+3,Hospital and related services,2.305,2.046
+4,Hospital services,1.987,1.868
+4,Nursing homes and adult day services,0.167,0.082
+4,Care of invalids and elderly at home,0.151,0.096
+3,Health insurance,0.580,0.611
+,,,
+1,Recreation,5.307,4.444
+2,Video and audio,1.190,1.201
+3,Televisions,0.125,0.152
+3,"Cable, satellite, and live streaming television service",0.780,0.760
+3,Other video equipment,0.026,0.013
+3,"Purchase, subscription, and rental of video",0.129,0.139
+3,Audio equipment,0.059,0.072
+3,Recorded music and music subscriptions,0.067,0.062
+3,Unsampled video and audio,0.004,0.004
+2,"Pets, pet products and services",1.055,0.968
+3,Pets and pet products,0.629,0.708
+3,Pet services including veterinary,0.426,0.261
+2,Sporting goods,0.648,0.406
+3,Sports vehicles including bicycles,0.429,0.243
+3,Sports equipment,0.209,0.154
+3,Unsampled sporting goods,0.011,0.009
+2,Photography,0.077,0.067
+3,Photographic equipment and supplies,0.024,0.022
+3,Photographers and photo processing,0.052,0.045
+3,Unsampled photography,0.001,0.000
+2,Other recreational goods,0.356,0.335
+3,Toys,0.280,0.262
+3,"Sewing machines, fabric and supplies",0.030,0.023
+3,Music instruments and accessories,0.030,0.020
+3,Unsampled recreation commodities,0.017,0.030
+2,Other recreation services,1.878,1.407
+3,"Club membership for shopping clubs, fraternal, or other organizations, or participant sports fees",0.716,0.428
+3,Admissions,0.641,0.593
+3,Fees for lessons or instructions,0.221,0.114
+3,Unsampled recreation services,0.300,0.272
+2,Recreational reading materials,0.102,0.058
+3,Newspapers and magazines,0.055,0.023
+3,Recreational books,0.047,0.035
+3,Unsampled recreational reading materials,0.000,0.000
+,,,
+1,Education and communication,5.906,5.960
+2,Education,2.489,1.890
+3,Educational books and supplies,0.082,0.094
+3,"Tuition, other school fees, and childcare",2.406,1.796
+4,College tuition and fees,1.275,0.906
+4,Elementary and high school tuition and fees,0.291,0.217
+4,Day care and preschool,0.703,0.510
+4,Technical and business school tuition and fees,0.048,0.088
+4,"Unsampled tuition, other school fees, and childcare",0.089,0.076
+2,Communication,3.417,4.069
+3,Postage and delivery services,0.065,0.051
+4,Postage,0.056,0.047
+4,Delivery services,0.009,0.004
+3,Information and information processing,3.352,4.019
+4,Telephone services,1.578,2.015
+5,Wireless telephone services,1.372,1.850
+5,Residential telephone services,0.206,0.165
+3,"Information technology, hardware and services",1.774,2.004
+4,"Computers, peripherals, and smart home assistants",0.309,0.259
+4,Computer software and accessories,0.020,0.022
+4,Internet services and electronic information providers,0.980,1.129
+4,"Telephone hardware, calculators, and other consumer information items",0.456,0.586
+4,Unsampled information and information processing,0.009,0.008
+,,,
+1,Other goods and services,2.899,3.097
+2,Tobacco and smoking products,0.542,0.879
+3,Cigarettes,0.444,0.713
+3,Tobacco products other than cigarettes,0.093,0.162
+3,Unsampled tobacco and smoking products,0.005,0.005
+2,Personal care,2.357,2.218
+3,Personal care products,0.666,0.812
+4,"Hair, dental, shaving, and miscellaneous personal care products",0.351,0.451
+4,"Cosmetics, perfume, bath, nail preparations and implements",0.304,0.349
+4,Unsampled personal care products,0.011,0.013
+3,Personal care services,0.629,0.586
+4,Haircuts and other personal care services,0.629,0.586
+3,Miscellaneous personal services,0.898,0.648
+4,Legal services,0.267,0.146
+4,Funeral expenses,0.158,0.078
+4,Laundry and dry cleaning services,0.155,0.182
+4,Apparel services other than laundry and dry cleaning,0.025,0.024
+4,Financial services,0.226,0.154
+4,Unsampled items,0.067,0.064
+3,Miscellaneous personal goods,0.165,0.171
+,,,
+0,Special aggregate indexes,,
+,,,
+0,All items,100.000,100.000
+1,Commodities,35.985,38.970
+2,Commodities less food and beverages,21.576,23.020
+3,Nondurables less food and beverages,11.276,12.788
+4,"Nondurables less food, beverages, and apparel",8.764,10.200
+3,Durables,10.301,10.232
+1,Services,64.015,61.030
+1,Rent of shelter,35.778,33.798
+1,Transportation services,6.294,6.940
+1,Other services,9.830,8.845
+1,All items less food,86.445,84.765
+1,All items less shelter,63.809,65.806
+1,All items less medical care,91.996,93.104
+1,Commodities less food,22.430,23.735
+1,Nondurables less food,12.129,13.503
+1,Nondurables less food and apparel,9.617,10.915
+1,Nondurables,25.685,28.738
+1,Apparel less footwear,1.982,1.907
+1,Services less rent of shelter,28.237,27.232
+1,Services less medical care services,57.499,55.377
+1,Energy,6.655,8.214
+1,All items less energy,93.345,91.786
+2,All items less food and energy,79.790,76.551
+3,Commodities less food and energy commodities,18.891,19.123
+4,Energy commodities,3.539,4.612
+3,Services less energy services,60.899,57.427
+1,Domestically produced farm food,6.798,7.832
+1,Utilities and public transportation,7.630,8.380

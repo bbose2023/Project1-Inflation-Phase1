@@ -1,0 +1,31 @@
+Indent Level,Area,CPI-U,CPI-W
+,,,
+,,,
+0,Northeast,19.016,16.720
+1,Northeast - Size Class A,9.636,8.892
+1,Northeast - Size Class B/C,9.380,7.828
+1,New England(2),5.678,4.567
+1,Middle Atlantic(2),13.337,12.153
+0,Midwest,19.171,18.853
+1,Midwest - Size Class A,7.142,7.236
+1,Midwest - Size Class B/C,12.029,11.618
+1,East North Central(2),13.244,13.164
+1,West North Central(2),5.927,5.689
+0,South,35.306,37.915
+1,South - Size Class A,12.945,12.517
+1,South - Size Class B/C,22.361,25.398
+1,South Atlantic(2),20.592,18.519
+1,East South Central(2),4.617,5.043
+1,West South Central(2),10.098,14.352
+0,West,26.507,26.511
+1,West - Size Class A,14.103,13.091
+1,West - Size Class B/C,12.405,13.420
+1,Mountain(2),7.505,7.275
+1,Pacific(2),19.003,19.237
+,,,
+,Footnotes:,,
+,(1) Regions defined as the four Census regions. See map in Brief Explanation of the CPI.,,
+,(2) Indexes on a December 2017=100 base.,,
+,(3) 1998 - 2017 indexes based on substantially smaller sample.,,
+,(4) Indexes on a December 2001=100 base.,,
+,(5) Indexes on a 1987=100 base.,,
